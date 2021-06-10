@@ -4,16 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58f4d91b-d433-419f-a949-828b38591a69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/exercise/ex24/exercise24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oop/exercise/AppTest.java" afterDir="false" />
+    <list default="true" id="58f4d91b-d433-419f-a949-828b38591a69" name="Default Changelist" comment="Exercise 24">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex25/Base25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex26/Base26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex24/Base24Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex25/Base25Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop/exercise/ex24/exercise24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex24/Base24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/oop/exercise/AppTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -46,8 +48,123 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\feder\OneDrive\Desktop\Josh\Summer Semester 2021\OOP\EX24-40" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ex25" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ex24" />
+      <recent name="oop.exercise.ex24" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ex25" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Base25Test">
+    <configuration name="Base25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex25.Base25" />
+      <module name="EX24-40" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Base25Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EX24-40" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ex25" />
+      <option name="MAIN_CLASS_NAME" value="ex25.Base25Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Base25Test.passwordValidator_has_special_letters_only_and_8_or_more_char" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EX24-40" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ex25" />
+      <option name="MAIN_CLASS_NAME" value="ex25.Base25Test" />
+      <option name="METHOD_NAME" value="passwordValidator_has_special_letters_only_and_8_or_more_char" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Base25Test.passwordValidator_has_special_numbers_and_8_or_more_char" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EX24-40" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ex25" />
+      <option name="MAIN_CLASS_NAME" value="ex25.Base25Test" />
+      <option name="METHOD_NAME" value="passwordValidator_has_special_numbers_and_8_or_more_char" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Base25Test.passwordValidator_has_special_numbers_and_letters_8_or_more_char" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EX24-40" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ex25" />
+      <option name="MAIN_CLASS_NAME" value="ex25.Base25Test" />
+      <option name="METHOD_NAME" value="passwordValidator_has_special_numbers_and_letters_8_or_more_char" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Base25" />
+      <item itemvalue="JUnit.Base25Test.passwordValidator_has_special_numbers_and_letters_8_or_more_char" />
+      <item itemvalue="JUnit.Base25Test.passwordValidator_has_special_numbers_and_8_or_more_char" />
+      <item itemvalue="JUnit.Base25Test.passwordValidator_has_special_letters_only_and_8_or_more_char" />
+      <item itemvalue="JUnit.Base25Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Base25Test" />
+        <item itemvalue="Application.Base25" />
+        <item itemvalue="JUnit.Base25Test.passwordValidator_has_special_numbers_and_letters_8_or_more_char" />
+        <item itemvalue="JUnit.Base25Test.passwordValidator_has_special_letters_only_and_8_or_more_char" />
+        <item itemvalue="JUnit.Base25Test.passwordValidator_has_special_numbers_and_8_or_more_char" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -58,6 +175,18 @@
       <option name="presentableId" value="Default" />
       <updated>1623180449049</updated>
     </task>
+    <task id="LOCAL-00001" summary="Exercise 24">
+      <created>1623184161359</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623184161359</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercise 24" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 24" />
   </component>
 </project>
