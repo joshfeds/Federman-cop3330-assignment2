@@ -69,4 +69,12 @@ class Base25Test {
         int actual = detector.passwordValidator("F#&*This");
         assertEquals(expected, actual);
     }
+    @Test
+    void passwordValidator_has_special_only_and_8_or_more_char() {
+        Base25 detector = new Base25();
+
+        int expected = 2;
+        int actual = detector.passwordValidator("!@#$%^&*");
+        assertEquals(expected, actual);
+    }
 }

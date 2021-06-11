@@ -1,0 +1,11 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+
+Total -> Number1: Total += Number1;
+Number1 -> Number2: Total += Number2;
+Number2 -> Number3: Total += Number3;
+Number3 -> Number4: Total += Number4;
+Number4 -> Number5: Total += Number5;
+@enduml
