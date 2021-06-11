@@ -5,21 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58f4d91b-d433-419f-a949-828b38591a69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex26/basepackage/Base26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex26/basepackage/PaymentCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex27/basepackage/base27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex27/basepackage/firstNameValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex27/basepackage/idValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex27/basepackage/lastNameValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex27/basepackage/zipValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex28/basepackage/Base28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex28/basepackage/BaseLoop.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex26/Base26Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex27/Base27Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex28/Base28Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex29/base/Base29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex30/base/Base30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex31/base/Base31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex32/base/Base32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex29/base/Base29Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex30/base/Base30Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex31/base/Base31Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex32/base/Base32Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ex26/Base26.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex25/Base25Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ex25/Base25Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +23,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
-        <option value="Class" />
         <option value="package-info" />
         <option value="UML Class" />
         <option value="UML Sequence" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -76,8 +70,11 @@
       <recent name="ex25" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="ex32.base" />
+      <recent name="ex31.base" />
+      <recent name="ex30.base" />
+      <recent name="ex29.base" />
       <recent name="ex24" />
-      <recent name="oop.exercise.ex24" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ex28" />
@@ -86,13 +83,13 @@
       <recent name="ex25" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Base28Test">
-    <configuration name="Base28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex28.basepackage.Base28" />
+  <component name="RunManager" selected="Application.Base32">
+    <configuration name="Base32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex32.base.Base32" />
       <module name="EX24-40" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex28.basepackage.*" />
+          <option name="PATTERN" value="ex32.base.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,82 +97,83 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Base27Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Base31Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EX24-40" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex27.*" />
+          <option name="PATTERN" value="ex31.base.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ex27" />
-      <option name="MAIN_CLASS_NAME" value="ex27.Base27Test" />
+      <option name="PACKAGE_NAME" value="ex31.base" />
+      <option name="MAIN_CLASS_NAME" value="ex31.base.Base31Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Base27Test.fname0_lname_less2_zip_not5_id_not7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Base31Test.doMath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EX24-40" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex27.*" />
+          <option name="PATTERN" value="ex31.base.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ex27" />
-      <option name="MAIN_CLASS_NAME" value="ex27.Base27Test" />
-      <option name="METHOD_NAME" value="fname0_lname_less2_zip_not5_id_not7" />
+      <option name="PACKAGE_NAME" value="ex31.base" />
+      <option name="MAIN_CLASS_NAME" value="ex31.base.Base31Test" />
+      <option name="METHOD_NAME" value="doMath" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Base28Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Base31Test.isNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EX24-40" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex28.*" />
+          <option name="PATTERN" value="ex31.base.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ex28" />
-      <option name="MAIN_CLASS_NAME" value="ex28.Base28Test" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="ex31.base" />
+      <option name="MAIN_CLASS_NAME" value="ex31.base.Base31Test" />
+      <option name="METHOD_NAME" value="isNumber" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Base28Test.default_example_case" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Base31Test.isNumber_false" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EX24-40" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex28.*" />
+          <option name="PATTERN" value="ex31.base.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ex28" />
-      <option name="MAIN_CLASS_NAME" value="ex28.Base28Test" />
-      <option name="METHOD_NAME" value="default_example_case" />
+      <option name="PACKAGE_NAME" value="ex31.base" />
+      <option name="MAIN_CLASS_NAME" value="ex31.base.Base31Test" />
+      <option name="METHOD_NAME" value="isNumber_false" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.Base27Test" />
-      <item itemvalue="JUnit.Base27Test.fname0_lname_less2_zip_not5_id_not7" />
-      <item itemvalue="Application.Base28" />
-      <item itemvalue="JUnit.Base28Test.default_example_case" />
-      <item itemvalue="JUnit.Base28Test" />
+      <item itemvalue="JUnit.Base31Test.isNumber" />
+      <item itemvalue="JUnit.Base31Test.isNumber_false" />
+      <item itemvalue="JUnit.Base31Test.doMath" />
+      <item itemvalue="JUnit.Base31Test" />
+      <item itemvalue="Application.Base32" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Base28Test" />
-        <item itemvalue="JUnit.Base28Test.default_example_case" />
-        <item itemvalue="Application.Base28" />
-        <item itemvalue="JUnit.Base27Test" />
-        <item itemvalue="JUnit.Base27Test.fname0_lname_less2_zip_not5_id_not7" />
+        <item itemvalue="Application.Base32" />
+        <item itemvalue="JUnit.Base31Test" />
+        <item itemvalue="JUnit.Base31Test.doMath" />
+        <item itemvalue="JUnit.Base31Test.isNumber_false" />
+        <item itemvalue="JUnit.Base31Test.isNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -202,12 +200,20 @@
       <option name="project" value="LOCAL" />
       <updated>1623306029979</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Exercise 24-28 complete">
+      <created>1623377326788</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1623377326788</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercise 24" />
     <MESSAGE value="Exercise 24-25 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 24-25 complete" />
+    <MESSAGE value="Exercise 24-28 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 24-28 complete" />
   </component>
 </project>
