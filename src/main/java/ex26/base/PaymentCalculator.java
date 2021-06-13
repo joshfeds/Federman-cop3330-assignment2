@@ -1,4 +1,4 @@
-package ex26.basepackage;
+package ex26.base;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.lang.Math;

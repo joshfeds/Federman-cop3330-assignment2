@@ -26,4 +26,18 @@ class Base38Test {
         String [] actual = program.onlyEvenValues(arrayBase);
         assertArrayEquals(expected, actual);
     }
+    @Test
+    void isEven_true() {
+        Base38 program = new Base38();
+        boolean expected = true;
+        boolean actual = program.isEven(4);
+        assertEquals(expected, actual);
+    }
+    @Test
+    void isEven_false() {
+        Base38 program = new Base38();
+        boolean expected = false;
+        boolean actual = program.isEven(7);
+        assertEquals(expected, actual);
+    }
 }

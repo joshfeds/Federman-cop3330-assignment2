@@ -1,4 +1,4 @@
-package ex27.basepackage;
+package ex27.base;
 
 public class firstNameValidator {
     public String checkFirstName(String fname, String lname){

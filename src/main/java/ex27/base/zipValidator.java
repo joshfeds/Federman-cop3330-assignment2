@@ -1,4 +1,4 @@
-package ex27.basepackage;
+package ex27.base;
 
 public class zipValidator {
     public String checkZip(String zip){

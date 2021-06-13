@@ -31,11 +31,11 @@ class Base31Test {
             assertEquals(expected, actual);
         }
     @Test
-    void doMath_85_percent() {
+    void doMath_80_percent() {
         Base31 program = new Base31();
 
-        float expected = 178.05F;
-        float actual = program.doMath(22,65,0.85F);
+        float expected = 171.4F;
+        float actual = program.doMath(22,65,0.80F);
         assertEquals(expected, actual);
     }
 }

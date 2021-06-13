@@ -1,6 +1,6 @@
 package ex26;
 
-import ex26.basepackage.PaymentCalculator;
+import ex26.base.PaymentCalculator;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

@@ -1,5 +1,4 @@
-package ex26.basepackage;
-import java.awt.desktop.ScreenSleepEvent;
+package ex26.base;
 import java.util.Scanner;
 /*
  *  UCF COP3330 Summer 2021 Assignment 2 Solution

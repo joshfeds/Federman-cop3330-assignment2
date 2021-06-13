@@ -5,15 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58f4d91b-d433-419f-a949-828b38591a69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex39/base/Base39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex39/base/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex40/base/Base40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex40/base/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex38/base/Base38Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex39/base/Base39Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex40/base/Base40Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex24/Base24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex24/Base24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex25/Base25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex25/Base25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex26/basepackage/Base26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex26/base/Base26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex26/basepackage/PaymentCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex26/base/PaymentCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex27/basepackage/base27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex27/base/base27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex27/basepackage/firstNameValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex27/base/firstNameValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex27/basepackage/idValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex27/base/idValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex27/basepackage/lastNameValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex27/base/lastNameValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex27/basepackage/zipValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex27/base/zipValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex28/basepackage/Base28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex28/base/Base28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex28/basepackage/BaseLoop.puml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex28/base/BaseLoop.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex37/base/Base37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex37/base/Base37.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ex38/base/Base38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex38/base/Base38.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ex26/Base26Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ex26/Base26Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ex27/Base27Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ex27/Base27Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ex28/Base28Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ex28/Base28Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ex31/base/Base31Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ex31/base/Base31Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ex38/base/Base38Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ex38/base/Base38Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,43 +103,59 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.Base40Test">
-    <configuration name="Base39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex39.base.Base39" />
+    <configuration name="Base37Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EX24-40" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex39.base.*" />
+          <option name="PATTERN" value="ex37.base.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Base40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex40.base.Base40" />
-      <module name="EX24-40" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex40.base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Base39Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="EX24-40" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex39.base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ex39.base" />
-      <option name="MAIN_CLASS_NAME" value="ex39.base.Base39Test" />
+      <option name="PACKAGE_NAME" value="ex37.base" />
+      <option name="MAIN_CLASS_NAME" value="ex37.base.Base37Test" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Base38Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EX24-40" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex38.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ex38.base" />
+      <option name="MAIN_CLASS_NAME" value="ex38.base.Base38Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Base38Test.isEven_false" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EX24-40" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex38.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ex38.base" />
+      <option name="MAIN_CLASS_NAME" value="ex38.base.Base38Test" />
+      <option name="METHOD_NAME" value="isEven_false" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Base39Test,isZero and 1 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EX24-40" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="ex39.base.Base39Test,isZero" />
+        <pattern testClass="ex39.base.Base39Test,isZero_false" />
+      </patterns>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -149,36 +175,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Base40Test.hasString_true" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="EX24-40" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex40.base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ex40.base" />
-      <option name="MAIN_CLASS_NAME" value="ex40.base.Base40Test" />
-      <option name="METHOD_NAME" value="hasString_true" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Base39" />
-      <item itemvalue="JUnit.Base39Test" />
-      <item itemvalue="Application.Base40" />
+      <item itemvalue="JUnit.Base37Test" />
+      <item itemvalue="JUnit.Base38Test" />
+      <item itemvalue="JUnit.Base38Test.isEven_false" />
+      <item itemvalue="JUnit.Base39Test,isZero and 1 more" />
       <item itemvalue="JUnit.Base40Test" />
-      <item itemvalue="JUnit.Base40Test.hasString_true" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.Base40Test" />
-        <item itemvalue="JUnit.Base40Test.hasString_true" />
-        <item itemvalue="Application.Base40" />
-        <item itemvalue="JUnit.Base39Test" />
-        <item itemvalue="Application.Base39" />
+        <item itemvalue="JUnit.Base39Test,isZero and 1 more" />
+        <item itemvalue="JUnit.Base38Test.isEven_false" />
+        <item itemvalue="JUnit.Base38Test" />
+        <item itemvalue="JUnit.Base37Test" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623555702668</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Exercise 24-40 complete">
+      <created>1623615360828</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1623615360828</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -243,6 +260,7 @@
     <MESSAGE value="Exercise 24-31 complete" />
     <MESSAGE value="Exercise 24-35 complete" />
     <MESSAGE value="Exercise 24-37 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 24-37 complete" />
+    <MESSAGE value="Exercise 24-40 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 24-40 complete" />
   </component>
 </project>

@@ -1,6 +1,6 @@
 package ex28;
 
-import ex28.basepackage.Base28;
+import ex28.base.Base28;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
